@@ -8,6 +8,7 @@ console.log(arr1);
 console.log("Type : " + typeof arr1, "Length : " + arr1.length);
 
 console.log(arr2);
+//
 console.log("Type : " + typeof arr2, "Length : " + arr2.length);
 
 /*
